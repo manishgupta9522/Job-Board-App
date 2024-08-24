@@ -1,6 +1,6 @@
 # Jobs Board APP
 
-This project is created with fetching data from online api's.
+This project is created with React.js and fetching data from online api's.
 
 
 
